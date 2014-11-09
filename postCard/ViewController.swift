@@ -30,6 +30,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     
+    //IBAction for button pressed
 
     @IBAction func sendMailButtonPressed(sender: UIButton) {
         
